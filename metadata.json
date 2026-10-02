@@ -1,0 +1,6 @@
+{
+  "name": "IP-SAKTI Sahayak",
+  "description": "Multilingual AI assistant providing source-grounded answers on intellectual property, patent guidelines, TKDL, and regulatory frameworks for Ayurveda and Traditional Knowledge.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
